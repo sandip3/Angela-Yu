@@ -16,13 +16,13 @@
 
 ### Introduction to HTML
 
-1. [Heading Element](./The%20Complete%202023%20Web%20Development%20Bootcamp/%231%20-%20Front%20end%20Web%20Development/%231%20-%20HTML/1%20-%20Introduction-to-HTML/2.1%20Heading%20Element/index.html) ✍️ - Learn how to use the heading element to structure your HTML pages.
+1. [Heading Element](https://sandip3.github.io/Angela-Yu/The%20Complete%202023%20Web%20Development%20Bootcamp/%231%20-%20Front%20end%20Web%20Development/%231%20-%20HTML/1%20-%20Introduction-to-HTML/2.1%20Heading%20Element/index.html) ✍️ - Learn how to use the heading element to structure your HTML pages.
 
-2. [Paragraph Element](./The%20Complete%202023%20Web%20Development%20Bootcamp/%231%20-%20Front%20end%20Web%20Development/%231%20-%20HTML/1%20-%20Introduction-to-HTML/2.2%20Paragraph%20Element/index.html) 📃 - Dive into the paragraph element and create well-formatted text content.
+2. [Paragraph Element](https://sandip3.github.io/Angela-Yu/The%20Complete%202023%20Web%20Development%20Bootcamp/%231%20-%20Front%20end%20Web%20Development/%231%20-%20HTML/1%20-%20Introduction-to-HTML/2.2%20Paragraph%20Element/index.html) 📃 - Dive into the paragraph element and create well-formatted text content.
 
-3. [Void Elements](./The%20Complete%202023%20Web%20Development%20Bootcamp/%231%20-%20Front%20end%20Web%20Development/%231%20-%20HTML/1%20-%20Introduction-to-HTML/2.3%20Void%20Elements/index.html) ❌ - Understand void elements and how they differ from normal elements.
+3. [Void Elements](https://sandip3.github.io/Angela-Yu/The%20Complete%202023%20Web%20Development%20Bootcamp/%231%20-%20Front%20end%20Web%20Development/%231%20-%20HTML/1%20-%20Introduction-to-HTML/2.3%20Void%20Elements/index.html) ❌ - Understand void elements and how they differ from normal elements.
 
-4. [Movie Ranking - [Final Project]](./The%20Complete%202023%20Web%20Development%20Bootcamp/%231%20-%20Front%20end%20Web%20Development/%231%20-%20HTML/1%20-%20Introduction-to-HTML/2.4%20Movie%20Ranking%20Project/index.html) 🎥 - Apply HTML knowledge to create a movie ranking web page.
+4. [Movie Ranking - [Final Project]](https://sandip3.github.io/Angela-Yu/The%20Complete%202023%20Web%20Development%20Bootcamp/%231%20-%20Front%20end%20Web%20Development/%231%20-%20HTML/1%20-%20Introduction-to-HTML/2.4%20Movie%20Ranking%20Project/index.html) 🎥 - Apply HTML knowledge to create a movie ranking web page.
 
 ### Intermediate HTML
 
