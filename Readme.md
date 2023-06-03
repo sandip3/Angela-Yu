@@ -14,7 +14,7 @@
 
 ## HTML 📄
 
-### Introduction to HTML
+### ```Introduction to HTML```
 
 1. [Heading Element](https://sandip3.github.io/Angela-Yu/The%20Complete%202023%20Web%20Development%20Bootcamp/1%20-%20Front%20end%20Web%20Development/1%20-%20HTML/1%20-%20Introduction-to-HTML/2.1%20Heading%20Element/index.html) ✍️ - Learn how to use the heading element to structure your HTML pages.
 
@@ -24,7 +24,7 @@
 
 4. [Movie Ranking - [Final Project]](https://sandip3.github.io/Angela-Yu/The%20Complete%202023%20Web%20Development%20Bootcamp/1%20-%20Front%20end%20Web%20Development/1%20-%20HTML/1%20-%20Introduction-to-HTML/2.4%20Movie%20Ranking%20Project/index.html) 🎥 - Apply HTML knowledge to create a movie ranking web page.
 
-### Intermediate HTML
+### ```Intermediate HTML```
 
 1. [List Elements](https://sandip3.github.io/Angela-Yu/The%20Complete%202023%20Web%20Development%20Bootcamp/1%20-%20Front%20end%20Web%20Development/1%20-%20HTML/2%20-%20Intermediate%20HTML/3.0%20List%20Elements/index.html) 📜 - Use list elements to organize information in HTML.
 
@@ -36,7 +36,7 @@
 
 5. [Birthday Invite Project - [Final Project]](https://sandip3.github.io/Angela-Yu/The%20Complete%202023%20Web%20Development%20Bootcamp/1%20-%20Front%20end%20Web%20Development/1%20-%20HTML/2%20-%20Intermediate%20HTML/3.4%20Birthday%20Invite%20Project/index.html) 🎂 - Build an interactive birthday invitation webpage using HTML.
 
-### Multi-page Websites
+### ```Multi-page Websites```
 
 1. [File Paths](https://sandip3.github.io/Angela-Yu/The%20Complete%202023%20Web%20Development%20Bootcamp/1%20-%20Front%20end%20Web%20Development/1%20-%20HTML/3%20-%20MultiPage%20Websites/4.0%20File%20Paths/Folder0/index.html) 📁 - Understand file paths and how to link resources in different directories.
 
@@ -55,3 +55,7 @@
 # Back-End Development ⚙️
 
 # Capstone Project 🏆
+
+1. [Project 1 - Online Resume](https://sandip3.github.io/Capstone-Project/Project%201%20-%20Online%20Resume/)
+2. []()
+3. []()
